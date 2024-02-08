@@ -1,0 +1,42 @@
+body {
+  background-color: darkslategray;
+  color: aliceblue;
+  position: absolute;
+  top: 7%;
+  left: 25%;
+  right: 25%;
+}
+.corpo {
+  background-color: aquamarine;
+  text-align: center;
+  padding: 1%;
+  border-radius: 20px;
+}
+.titulo {
+  margin: 7px 7px;
+  font-size: 80px;
+}
+.nova_conta {
+  margin: 15px;
+  font-size: 35px;
+}
+.cadrasto {
+  background-color: aquamarine;
+  font-size: 25px;
+}
+input {
+  background-color: white;
+  border-color: darkseagreen;
+  border: none;
+  border-radius: 20px;
+  color: black;
+  outline: none;
+  padding: 10px;
+  margin: 7px 5px;
+}
+.butao {
+  padding: 10px;
+  border-color: aquamarine;
+  border-radius: 12px;
+  outline-color: aquamarine;
+}
